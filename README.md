@@ -11,5 +11,6 @@ Start game with your input number, computer will guess the number following your
 
 Clone this project to local and run
 
-```$ expo start
+```
+$ expo start
 ```
